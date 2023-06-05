@@ -69,7 +69,7 @@ void loop()
 ## BEFORE STIMULATION :
 ![image](https://github.com/Prasannalakshmiganesan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/118610231/03074fd6-48fa-477c-b4ca-27d3326c812a)
 
-##AFTER STIMULATION :
+## AFTER STIMULATION :
 ![image](https://github.com/Prasannalakshmiganesan/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/assets/118610231/56ee8759-c259-4511-a893-8bf2a4d82cc7)
 
 
